@@ -21,5 +21,7 @@ Live site: [fatimzahraetijani.github.io](https://fatimzahraetijani.github.io)
 - **Backend**: Node.js, Express.js, REST APIs, JWT, bcrypt.js
 - **Database**: MySQL, SQL, CRUD, Relational Databases, SQL Joins
 - **Tools**: Git, GitHub, VS Code, XAMPP, npm
-- **Other**: PHP, Laravel, Livewire
+- **Other**: PHP, Laravel, Livewire.
+
+
 
